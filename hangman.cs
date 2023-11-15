@@ -1,3 +1,4 @@
+/* There are three issues in this code, but they are more subtle and structural */
 using System;
 
 class Program
