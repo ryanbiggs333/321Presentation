@@ -1,5 +1,5 @@
 /* There are at least seven logic errors in this code and many bad design choices. 
-    Feel free to comment or directly edit your changes but do not merge your branch with main! */ 
+    Feel free to comment or directly edit your changes but do not merge your branch with main! */
 
 using System;
 
